@@ -2,10 +2,10 @@
 
 # Dependencies :
 - Webpack
-- react
-- nodemon
-- express
-- mongodv
+- React
+- Nodemon
+- Express
+- Mongodv
 
 # DevDependencies :
 - webpack hot modules
